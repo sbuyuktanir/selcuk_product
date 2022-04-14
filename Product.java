@@ -1,7 +1,6 @@
 public class Product
 {
 private String name = "Coca Cola";
-private int preis = 10;
 
 public Product (String name)
 {
